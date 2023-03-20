@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map2</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Zoning is a locally regulated law that is used as a guideline for land management control and conformity by establishing specific policy that must be followed in the use of land and buildings. Zoning asserts explicit uses that are permitted under varying circumstances. It dictates reasonable development by protecting property from detrimental uses on nearby properties. Zoning also standardizes the size of lots, the building set backs from roads or adjoining property, maximum height of buildings, the population density, and other land use issues.Zoning is used to designate, regulate and restrict the location and use of buildings, structures and land, for agriculture, residence, commerce, trade, industry or other purposes; to regulate and limit the height, number of stories, and size of buildings and other structures hereafter erected or altered to regulate and determine the size of yards and other open spaces and to regulate and limit the density of population; and for said purposes to divide the City into zones of such number, shape and area as may be deemed best suited to carry out these regulations and provide for their enforcement. These regulations are deemed necessary in order to encourage the most appropriate use of land; to conserve and stabilize the value of property; to provide adequate open spaces for light and air, and to prevent and fight fires; to prevent undue concentration of population; to lessen congestion on streets; to facilitate adequate provisions for community utilities and facilities such as transportation, water, sewerage, schools, parks and other public requirements; and to promote health, safety, and the general welfare all in accordance with the comprehensive plan.For more information, please refer to Section 12.04 of the Los Angeles Planning and Zoning Municipal Code and the Generalized Summary of Zoning Regulations, City of Los Angeles.Refresh Rate: MonthlyLast Updated: Nov 17, 2022</abstract>
+            <purpose>Zoning (Polygon)</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Zoning</themekey>
+                <themekey>Residential</themekey>
+                <themekey>Commercial</themekey>
+                <themekey>Industrial</themekey>
+                <themekey>Parking</themekey>
+                <themekey>Open Space</themekey>
+                <themekey>Public Facility</themekey>
+                <themekey>LADCP</themekey>
+                <themekey>City Planning</themekey>
+                <themekey>Agricultural</themekey>
+                <themekey>Suburban</themekey>
+                <themekey>Single Family</themekey>
+                <themekey>Residential Urban</themekey>
+                <themekey>Residential Zero Side Yard</themekey>
+                <themekey>Residential Waterways</themekey>
+                <themekey>Restricted Density Multiple Dwelling</themekey>
+                <themekey>Mobile Home Park</themekey>
+                <themekey>Multi-Family</themekey>
+                <themekey>Residential/Accessory Services</themekey>
+                <themekey>Limited Commercial</themekey>
+                <themekey>Hybrid Industrial Live/Work</themekey>
+                <themekey>Restricted Industrial</themekey>
+                <themekey>Limited Industrial</themekey>
+                <themekey>Restricted Light Industrial</themekey>
+                <themekey>Light Industrial</themekey>
+                <themekey>Heavy Industrial</themekey>
+                <themekey>Ocean-Submerged</themekey>
+                <themekey>Commercial Manufacturing</themekey>
+                <themekey>ArcGIS</themekey>
+                <themekey>Service Definition</themekey>
+                <themekey>.sd</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THIS WEB SITE. BY USING THIS WEB SITE, YOU ARE CONSENTING TO BE OBLIGATED AND BECOME A PARTY TO THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS BELOW YOU SHOULD NOT ACCESS OR USE THIS WEB SITE. This web site is presented as a public service that provides Internet accessibility to information provided by the City of Los Angeles, Department of City Planning and to other City, State, and Federal information. Due to the dynamic nature of the information contained within this web site and the reliance on information from outside sources, the City of Los Angeles, Department of City Planning does not guarantee the accuracy or reliability of the information transmitted from this web site. This web site and all materials contained on it are distributed and transmitted on an &amp;quot;as is&amp;quot; and &amp;quot;as available&amp;quot; basis without any warranties of any kind, whether expressed or implied. The City of Los Angeles, Department of City Planning is not responsible for any special, indirect, incidental, punitive, or consequential damages that may arise from the use of, or the inability to use the web site and/or materials contained on the web site, or that result from mistakes, omissions, interruptions, deletion of files, errors, defects, delays in operation, or transmission, or any failure of performance, whether the material is provided by the City of Los Angeles or outside source. The City of Los Angeles, Department of City Planning reserves the right to modify, update, or alter these Terms and Conditions of use at any time. Your continued use of this Site constitutes your agreement to comply with such modifications. The information provided on this web site, and its links to other related web sites, are provided as a courtesy to our web site visitors only, and are in no manner an endorsement, recommendation, or approval of any person, any product, or any service contained on any other web site. The City of Los Angeles, Department of City Planning is neither responsible nor liable for any viruses or other contamination of your system nor for any delays, inaccuracies, errors, or omissions arising out of your use of this web site, or with respect to the material contained on the web site, including without limitation, any material posted on the web site. This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of California as applied to agreements made and to be performed entirely therein. Any action brought to enforce the Agreement and/or in connection with this web site shall be brought in either the state or federal courts in the County of Los Angeles County, State of California.</useconst>
+        <datacred>City of Los Angeles, Department of City Planning</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
